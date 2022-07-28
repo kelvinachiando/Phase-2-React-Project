@@ -21,3 +21,12 @@
 
 # Live Link
 https://kelvinachiando.github.io/phase-2-react-project/
+
+# Technologies Used
+1. Javascript
+2. HTML
+3. CSS
+4. React
+
+# Contact and Support
+For more enquiries, suggestions and clarification, you can contact me through: Email :kelvinostin22@gmail.com Telephone: +254724733537

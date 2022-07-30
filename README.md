@@ -15,7 +15,7 @@
  # Setup/Installation Requiements
  1. You can acces this project by accessing the repo link (https://github.com/kelvinachiando/phase-2-react-project)
 2. You can then clone it into your local machine.
-3. After cloning it into your local machine, you can navigate to the index.html file to open the project in your browser.
+3. After cloning, go to the 254tours directory and start the json server by running the command npm run server. AFter starting the json server run npm start in the terminal to start the project in your browser. 
 4. For the project to work, you must have an active internet conenction.
 5. You can also run this project through this live link provided below.
 

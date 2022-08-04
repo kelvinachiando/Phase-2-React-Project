@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Loading from "./Loading";
 import Tours from "./Tours";
-const url = "http://localhost:5000/tours";
+const url = "https://localhost:5000/tours";
 
 function App() {
   const [loading, setLoading] = useState(false);
